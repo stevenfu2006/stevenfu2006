@@ -1,5 +1,5 @@
-# 💫 About Me:
-Student at the University of Michigan studying computer science and mathematics. I build AI systems that operate in the physical world: real-time pipelines, live sensor streams, and production backends where latency and correctness actually matter. Currently working on AR astronaut interfaces for a NASA challenge and an AI-assisted transistor database at Yazaki.<br>
+# Hi! I'm Steven:
+I'm a student at the University of Michigan studying computer science and mathematics. I build AI systems that operate in the physical world: real-time pipelines, live sensor streams, and production backends where latency and correctness actually matter. Currently working on AR astronaut interfaces for a NASA challenge and an AI-assisted transistor database at Yazaki.<br>
 
 
 # 💻 Tech Stack:
