@@ -1,9 +1,5 @@
-  <div align="center">
-    <h1>
-      Hey there, I'm Steven!
-    </h1>
-  </div>
-I'm a student at the University of Michigan studying computer science and mathematics. I build AI systems that operate in the physical world: real-time pipelines, live sensor streams, and production backends where latency and correctness actually matter. Currently working on AR astronaut interfaces for a NASA challenge and an AI-assisted transistor database at Yazaki.<br>
+<h1 align="center">Hey there, I'm Steven! </h1>
+<h3 align="center">Student at UMich, building AI systems that work in the real world. </h3>
 
 
 # 💻 Tech Stack:
